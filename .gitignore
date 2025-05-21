@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+
+# Logs
+*.log
+logs/
+log/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+*.mmd
+generated/
+outputs/
+*.pdf
+*.svg
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
